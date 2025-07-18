@@ -1,2 +1,2 @@
-# alokai-shopify-react
-Demo setup of Alokai integration with shopify
+# Smartliner-Shopify-integration
+To fetch API globally
